@@ -15,12 +15,13 @@ cout<<endl;
 }
 
 int main(){ 
+
+  int x;
+
   cout << "===========================================" << endl;
   cout << "##  Program C++ Menentukan Ganjil-Genap  ##" << endl;
   cout << "===========================================" << endl;
   cout << endl;
- 
-  int x;
  
   cout << "Masukkan Bilangan : ";
   cin >> x;

@@ -5,7 +5,7 @@
 
 using namespace std;
 
-void tambah (float a, float b){
+float tambah (float a, float b){
 	return ( a + b );
 	}
 
